@@ -1,0 +1,9 @@
+{
+  "top_20_size": 20,
+  "rule_name": "baseline_action_score",
+  "num_candidates": 30000,
+  "mean_score": 0.37771499999999997,
+  "max_score": 1.0,
+  "heldout_base_rate": 0.511,
+  "baseline_precision_at_50": 0.42
+}
